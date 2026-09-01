@@ -24,9 +24,9 @@ I build end-to-end Machine Learning systems, Time Series models, and Customer An
 
 | Project | Domain | Architecture & Stack | Key Metrics & Impact | Link |
 | :--- | :--- | :--- | :--- | :---: |
-| **Early Warning Churn System** | SaaS / Telco | XGBoost, SHAP, Class-Weighted Learning | **ROC-AUC: 0.84** • €25k+ simulated preserved CLV | [Repo ↗️](https://github.com/MRigoni10/telco-churn-explainable-ai) |
-| **Multi-Category Demand Forecasting** | Supply Chain / Retail | LightGBM, Lag/Rolling Features, Multi-Series | **WAPE: ~19%** • Dynamic Safety Stock Sizing | [Repo ↗️](https://github.com/MRigoni10/demand-forecasting-lightgbm) |
-| **E-Commerce Customer Segmentation** | E-Commerce / CRM | RFM Framework, Log-Scaling, K-Means Clustering | **Silhouette: 0.42** • 4 Actionable Cohort Strategies | [Repo ↗️](https://github.com/MRigoni10/customer-segmentation-rfm) |
+| **Early Warning Churn System** | SaaS / Telco | XGBoost, SHAP, Class-Weighted Learning | **ROC-AUC: 0.84** • €25k+ simulated preserved CLV | [Repo](https://github.com/MRigoni10/telco-churn-explainable-ai) |
+| **Multi-Category Demand Forecasting** | Supply Chain / Retail | LightGBM, Lag/Rolling Features, Multi-Series | **WAPE: ~19%** • Dynamic Safety Stock Sizing | [Repo](https://github.com/MRigoni10/demand-forecasting-lightgbm) |
+| **E-Commerce Customer Segmentation** | E-Commerce / CRM | RFM Framework, Log-Scaling, K-Means Clustering | **Silhouette: 0.42** • 4 Actionable Cohort Strategies | [Repo](https://github.com/MRigoni10/customer-segmentation-rfm) |
 
 ---
 

@@ -1,8 +1,8 @@
-# Hi, I'm Mario
-### Data Scientist / Data Analyst
+# Hi, I'm Mario Rigoni
+### Junior Data Scientist / Data Analyst
+**B.Sc. in Statistics for Economics and Business — University of Padua (Università degli Studi di Padova)**
 
-I build end-to-end Machine Learning systems, Time Series models, and Customer Analytics pipelines designed to solve practical business problems and drive revenue growth.
-
+I combine a rigorous academic foundation in statistical modeling and quantitative methods with practical Machine Learning, Time Series forecasting, and Business Analytics pipelines. My focus is translating complex data into measurable business impact.
 - **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/mario-rigoni-044b98404)
 - **Email:** mrigoni.vi@gmail.com
 - **Location:** Italy, Vicenza
@@ -13,8 +13,8 @@ I build end-to-end Machine Learning systems, Time Series models, and Customer An
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages & Core** | Python (Pandas, NumPy, Polars), SQL (PostgreSQL, BigQuery), Bash, Git |
-| **Machine Learning & Stats** | Scikit-Learn, LightGBM, XGBoost, CatBoost, SHAP, Statsmodels |
+| **Languages & Core** | Python (Pandas, NumPy, Polars), R, SQL (PostgreSQL, BigQuery), Bash, Git |
+| **Machine Learning & Stats** | Scikit-Learn, LightGBM, XGBoost, CatBoost, SHAP, Statsmodels, Hypothesis Testing |
 | **Analytics & Visualization** | Plotly, Seaborn, Matplotlib, Tableau, Power BI |
 | **Environments & Workflow** | Google Colab, Jupyter, Docker, Linux, GitHub Actions |
 
@@ -24,9 +24,10 @@ I build end-to-end Machine Learning systems, Time Series models, and Customer An
 
 | Project | Domain | Architecture & Stack | Key Metrics & Impact | Link |
 | :--- | :--- | :--- | :--- | :---: |
-| **Early Warning Churn System** | SaaS / Telco | XGBoost, SHAP, Class-Weighted Learning | **ROC-AUC: 0.84** • €25k+ simulated preserved CLV | [Repo](https://github.com/MRigoni10/telco-churn-explainable-ai) |
-| **Multi-Category Demand Forecasting** | Supply Chain / Retail | LightGBM, Lag/Rolling Features, Multi-Series | **WAPE: ~19%** • Dynamic Safety Stock Sizing | [Repo](https://github.com/MRigoni10/demand-forecasting-lightgbm) |
-| **E-Commerce Customer Segmentation** | E-Commerce / CRM | RFM Framework, Log-Scaling, K-Means Clustering | **Silhouette: 0.42** • 4 Actionable Cohort Strategies | [Repo](https://github.com/MRigoni10/customer-segmentation-rfm) |
+| **Early Warning Churn System** | SaaS / Telco | XGBoost, SHAP, Class-Weighted Learning | **ROC-AUC: 0.84** • €25k+ simulated preserved CLV | [Repo ↗️](https://github.com/MRigoni10/telco-churn-explainable-ai) |
+| **Multi-Category Demand Forecasting** | Supply Chain / Retail | LightGBM, Lag/Rolling Features, Multi-Series | **WAPE: ~19%** • Dynamic Safety Stock Sizing | [Repo ↗️](https://github.com/MRigoni10/demand-forecasting-lightgbm) |
+| **E-Commerce Customer Segmentation** | E-Commerce / CRM | RFM Framework, Log-Scaling, K-Means Clustering | **Silhouette: 0.42** • 4 Actionable Cohort Strategies | [Repo ↗️](https://github.com/MRigoni10/customer-segmentation-rfm) |
+| **Fashion Catalog & Stockout Analysis** | E-Commerce / Retail | Data Wrangling, Text/NLP Parsing, Seaborn | **Size-Level Stockout Rate** • Pricing Matrix | [Repo ↗️](https://github.com/MRigoni10/fashion-ecommerce-stockout-analysis) |
 
 ---
 
@@ -47,5 +48,15 @@ I build end-to-end Machine Learning systems, Time Series models, and Customer An
 * Corrected power-law skewness via logarithmic transformation and scaled features for stable clustering.
 * Extracted 4 distinct customer cohorts (Champions, Loyal, At Risk, Hibernating) to personalize CRM retention campaigns.
 
+### 4. [Fashion Catalog Stockout & Brand Pricing Analysis (ASOS)](https://github.com/MRigoni10/fashion-ecommerce-stockout-analysis)
+* Parsed and structured size-level availability from ~18k product records to identify broken size curves[cite: 1].
+* Computed normalized stockout rates and quantified phantom revenue loss per product variant[cite: 1].
+* Built a brand positioning matrix (Price vs. Stockout) to guide vendor reordering priorities[cite: 1].
+
 ---
 
+## 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MRigoni10&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>

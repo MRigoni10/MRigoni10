@@ -54,9 +54,3 @@ I combine a rigorous academic foundation in statistical modeling and quantitativ
 * Built a brand positioning matrix (Price vs. Stockout) to guide vendor reordering priorities[cite: 1].
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MRigoni10&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
